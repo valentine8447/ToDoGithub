@@ -1,3 +1,5 @@
 Unimportant.txt
 *.md
 !README.md
+bin/*.xml
+!bin/Text.xml
