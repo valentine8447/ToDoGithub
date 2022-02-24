@@ -1,1 +1,3 @@
 Unimportant.txt
+*.md
+!README.md
